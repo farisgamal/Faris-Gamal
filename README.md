@@ -1,138 +1,127 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+### Hi there 👋
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+I'm Moepoi ([21](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7813f145259151a2a73c7) y.o) ! :sunglasses:
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
+I'd like to do project that has relation to anime. :ghost:
+
+:page_with_curl: I'm currently learning:
+<br><br>
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+:star: Here are some projects that I'm working on:
+- [Frontier of Hell](https://github.com/moepoi/Frontier-of-Hell)
+- [Kitchen Counts](https://github.com/moepoi/Kitchen_Counts)
+- [Nekoya](https://github.com/Nekoya-Site)
+- [Easy Learn](https://github.com/Easy-Learn/App/releases/tag/v1.0.1)
+- [Neonime App](https://install.appcenter.ms/users/moepoi/apps/neonime/distribution_groups/public)
+- [Nepgear](https://t.me/NepgearBot)
+- [WhoisBot](https://t.me/WhoisBot)
+- [Moe API](https://beta.moe.team)
+
+<details>
+<summary>:trophy: Github Stats</summary>
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moepoi">
+<img src="https://github-profile-trophy.vercel.app/?username=moepoi">
+</details>
+
 <br>
-<p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
-  <br>
-  <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
-  <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
-  <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
-</p>
 
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-</p>
-<hr>
+<img src="https://img.anili.st/user/161753" width="500">
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
+<details>
+<summary>:bar_chart: Recent Anilist Activity</summary>
+  
+<!-- anilist_activity starts -->
+* [Plans to watch None](https://anilist.co/activity/656105379) of [Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season](https://anilist.co/anime/171110)
+* [Watched episode 23](https://anilist.co/activity/647759142) of [Cang Yuan Tu](https://anilist.co/anime/155244)
+* [Watched episode 32 - 33](https://anilist.co/activity/647759068) of [Gaishi Dizun](https://anilist.co/anime/155321)
+* [Watched episode 364 - 365](https://anilist.co/activity/647759051) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
+* [Watched episode 7](https://anilist.co/activity/647505185) of [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214)
+<!-- anilist_activity ends -->
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+</details>
 
-<hr>
+<details>
+<summary>:tv: List Favorites Anime</summary>
+  
+<!-- favorites_anime starts -->
+* [Ze Tian Ji](https://anilist.co/anime/101409)
+* [Ze Tian Ji 2](https://anilist.co/anime/102165)
+* [Ze Tian Ji 3](https://anilist.co/anime/102166)
+* [Ze Tian Ji 4](https://anilist.co/anime/108986)
+* [Ze Tian Ji 5](https://anilist.co/anime/115839)
+* [Toaru Majutsu no Index](https://anilist.co/anime/4654)
+* [Toaru Majutsu no Index II](https://anilist.co/anime/8937)
+* [Toaru Majutsu no Index III](https://anilist.co/anime/100185)
+* [Toaru Kagaku no Railgun](https://anilist.co/anime/6213)
+* [Toaru Kagaku no Railgun S](https://anilist.co/anime/16049)
+* [Toaru Kagaku no Railgun T](https://anilist.co/anime/104462)
+* [Ling Jian Zun](https://anilist.co/anime/107882)
+* [Ling Jian Zun 2](https://anilist.co/anime/116137)
+* [Ling Jian Zun 3](https://anilist.co/anime/116138)
+* [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [Doupo Cangqiong](https://anilist.co/anime/102464)
+* [Doupo Cangqiong 2](https://anilist.co/anime/102463)
+* [Doupo Cangqiong 3](https://anilist.co/anime/104922)
+* [World Trigger](https://anilist.co/anime/20729)
+* [World Trigger 2](https://anilist.co/anime/114087)
+* [Mahouka Koukou no Rettousei](https://anilist.co/anime/20458)
+* [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
+* [Tong Ling Fei](https://anilist.co/anime/99935)
+* [Shu Ling Ji](https://anilist.co/anime/119945)
+* [Quanzhi Fashi](https://anilist.co/anime/99200)
+<!-- favorites_anime ends -->
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
+</details>
 
-<h4 align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+<details>
+<summary>:book: List Favorites Manga</summary>
+  
+<!-- favorites_manga starts -->
+<!-- favorites_manga ends -->
 
+</details>
 
-<!--
-**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary>:girl: List Favorites Character</summary>
+  
+<!-- favorites_characters starts -->
+* [Mahiru Shiina](https://anilist.co/character/195602)
+* [Mini Yaemori](https://anilist.co/character/153703)
+* [Loo](https://anilist.co/character/293202)
+* [Mukuro Hoshimiya](https://anilist.co/character/157109)
+* [Akari Watanabe](https://anilist.co/character/191672)
+* [Misaki Shokuhou](https://anilist.co/character/40136)
+* [Kuon](https://anilist.co/character/126823)
+* [Vladilena Milizé](https://anilist.co/character/141061)
+* [Yor Forger](https://anilist.co/character/138102)
+* [Chizuru Ichinose](https://anilist.co/character/128106)
+* [Celia Claire](https://anilist.co/character/161678)
+* [Kyouko Hori](https://anilist.co/character/66171)
+* [Nagisa Minase](https://anilist.co/character/162885)
+* [Sayu Ogiwara](https://anilist.co/character/127925)
+* [Ravel Phenex](https://anilist.co/character/58341)
+* [Yuuko Yoshida](https://anilist.co/character/141461)
+* [Ziyu Zhou](https://anilist.co/character/234726)
+* [Angelina Kudou Shields](https://anilist.co/character/128377)
+* [Ninym Ralei](https://anilist.co/character/206374)
+* [Marin Kitagawa](https://anilist.co/character/133676)
+* [Holo](https://anilist.co/character/7373)
+* [Ayako Kuroba](https://anilist.co/character/200612)
+* [Nepgear](https://anilist.co/character/49927)
+* [Jibril](https://anilist.co/character/87887)
+<!-- favorites_characters ends -->
 
-Here are some ideas to get you started:
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
-
-![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
-
--->
+Feel free to contact me :yum:
+<br><br>
+<a href="https://t.me/moepoi" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea"></a>
+<a rel="me" href="https://moe.onl/@moepoi" target="_blank"><img src="https://img.shields.io/badge/Mastodon-%40moepoi-blueviolet"></a>
+<a href="https://linkedin.com/in/moepoi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-moepoi-informational"></a>
+<a href="mailto:moe@poi.lol"><img src="https://img.shields.io/badge/Email-moe%40poi.lol-orange"></a>
+<a href="https://moepoi.dev" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red"></a>
